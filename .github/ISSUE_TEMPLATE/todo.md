@@ -1,7 +1,7 @@
 ---
 name: Todo
 about: Defines a unit of work to be done
-title: ''
+title: "✔ "
 labels: ''
 assignees: ''
 

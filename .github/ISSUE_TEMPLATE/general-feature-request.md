@@ -1,7 +1,7 @@
 ---
 name: General feature request
 about: Submit a new feature request
-title: ''
+title: "\U0001F4A1 "
 labels: ''
 assignees: ''
 

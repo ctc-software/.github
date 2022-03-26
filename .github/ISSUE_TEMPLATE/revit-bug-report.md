@@ -1,7 +1,7 @@
 ---
 name: Revit bug report
 about: Create a bug report for a Revit project
-title: ''
+title: "\U0001F41B "
 labels: ''
 assignees: ''
 

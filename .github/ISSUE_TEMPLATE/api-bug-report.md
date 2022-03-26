@@ -1,7 +1,7 @@
 ---
 name: API bug report
 about: Create a bug report for an API
-title: ''
+title: "\U0001F41B "
 labels: ''
 assignees: ''
 
