@@ -2,7 +2,7 @@
 name: Civil feature request
 about: Submit a new feature request for Civil add-in
 title: ''
-labels: 'project: undefined'
+labels: ''
 assignees: ''
 
 ---

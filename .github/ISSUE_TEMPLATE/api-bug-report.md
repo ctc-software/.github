@@ -2,7 +2,7 @@
 name: API bug report
 about: Create a bug report for an API
 title: ''
-labels: 'project: undefined'
+labels: ''
 assignees: ''
 
 ---

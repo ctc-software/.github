@@ -2,7 +2,7 @@
 name: Revit feature request
 about: Submit a new feature request for Revit add-in
 title: ''
-labels: 'project: undefined'
+labels: ''
 assignees: ''
 
 ---

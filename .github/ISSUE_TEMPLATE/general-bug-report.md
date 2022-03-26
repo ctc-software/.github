@@ -1,8 +1,8 @@
 ---
 name: General bug report
 about: Report a bug for a product
-title: ''
-labels: 'project: undefined'
+title: "\U0001F41B"
+labels: ''
 assignees: ''
 
 ---

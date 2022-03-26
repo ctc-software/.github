@@ -2,7 +2,7 @@
 name: General feature request
 about: Submit a new feature request
 title: ''
-labels: 'project: undefined'
+labels: ''
 assignees: ''
 
 ---

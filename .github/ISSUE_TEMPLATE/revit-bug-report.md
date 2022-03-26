@@ -2,7 +2,7 @@
 name: Revit bug report
 about: Create a bug report for a Revit project
 title: ''
-labels: 'project: undefined'
+labels: ''
 assignees: ''
 
 ---
