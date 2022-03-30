@@ -7,5 +7,5 @@ assignees: ''
 
 ---
 
-**Describe the work to be done**
+### Describe the work to be done
 A clear and concise description of what you want to happen.
