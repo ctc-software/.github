@@ -2,7 +2,7 @@
 name: General bug report
 about: Report a bug for a product
 title: "\U0001F41B "
-labels: ''
+labels: 'project: undefined'
 assignees: ''
 
 ---

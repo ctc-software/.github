@@ -2,7 +2,7 @@
 name: Civil bug report
 about: Create a bug report for a Civil project
 title: "\U0001F41B "
-labels: ''
+labels: 'project: undefined'
 assignees: ''
 
 ---

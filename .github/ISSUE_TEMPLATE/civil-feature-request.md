@@ -2,7 +2,7 @@
 name: Civil feature request
 about: Submit a new feature request for Civil add-in
 title: "\U0001F4A1 "
-labels: ''
+labels: 'project: undefined'
 assignees: ''
 
 ---
