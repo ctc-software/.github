@@ -1,0 +1,26 @@
+name: 💡 Feature Request
+description: Define the feature to be implemented
+title: "💡 "
+projects: ["ctc-software/3"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out feature request form 🤗
+        Make sure there aren't any open/closed issues for this topic 😃
+        
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: Description the feature
+      description: A clear and concise description of what you want to happen.
+    validations:
+      required: true
+
+  - type: textarea
+    id: related-to-a-problem
+    attributes:
+      label: Is your feature request related to a problem? Please describe.
+      description: A clear and concise description of what the problem is. Ex. I'm always frustrated when
+    validations:
+      required: true
