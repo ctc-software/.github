@@ -1,6 +1,7 @@
 name: 🐛Bug Report
 description: File a bug report here
-title: "[BUG]: "
+title: ":bug: "
+projects: "CTC"
 body:
   - type: markdown
     attributes:
@@ -43,3 +44,17 @@ body:
       label: Additional Information
       description: |
         Provide any additional information such as logs, screenshots, likes, scenarios in which the bug occurs so that it facilitates resolving the issue.
+
+  - type: dropdown
+    id: revit-versions
+    attributes:
+       label: Which Revit version(s) are affected by this bug?
+       multiple: true
+       options:
+          - 2020
+          - 2021
+          - 2022
+          - 2023
+          - 2024
+    validations:
+       required: true
