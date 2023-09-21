@@ -48,13 +48,12 @@ body:
   - type: dropdown
     id: revit-versions
     attributes:
-       label: Which Revit version(s) are affected by this bug?
-       multiple: true
-       options:
-          - 2020
-          - 2021
-          - 2022
-          - 2023
-          - 2024
+      label: Which Revit version(s) is affected by this bug?
+      options:
+        - 2020
+        - 2021
+        - 2022
+        - 2023
+        - 2024
     validations:
-       required: true
+      required: true
