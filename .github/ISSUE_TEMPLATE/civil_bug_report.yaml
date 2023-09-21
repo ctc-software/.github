@@ -1,5 +1,5 @@
-name: 🐛 Revit Bug Report
-description: File a bug report for Revit add-in
+name: 🐛 Civil Bug Report
+description: File a bug report for Civil add-in
 title: "🐛 "
 projects: ["ctc-software/3"]
 body:
