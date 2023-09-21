@@ -1,7 +1,7 @@
 name: 🐛Bug Report
 description: File a bug report here
 title: ":bug: "
-projects: "CTC"
+projects: ["ctc-software/3"]
 body:
   - type: markdown
     attributes:
