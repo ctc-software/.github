@@ -1,0 +1,17 @@
+name: ✅ To do
+description: Define the work to do
+title: "✅ "
+projects: ["ctc-software/3"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out the to do form🤗
+        
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the work to be done
+      description: A clear and concise description of what you want to happen.
+    validations:
+      required: true
