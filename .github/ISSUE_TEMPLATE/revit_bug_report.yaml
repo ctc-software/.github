@@ -41,7 +41,7 @@ body:
   - type: dropdown
     id: revit-versions
     attributes:
-      label: Which Revit version(s) is affected by this bug?
+      label: Which Revit version(s) are affected by this bug?
       multiple: true
       options:
         - 2020
