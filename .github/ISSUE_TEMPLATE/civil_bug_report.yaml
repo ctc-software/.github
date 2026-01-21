@@ -44,11 +44,12 @@ body:
       label: Which Civil version(s) are affected by this bug?
       multiple: true
       options:
-        - 2021
         - 2022
         - 2023
         - 2024
         - 2025
+        - 2026
+        - 2027
     validations:
       required: true
       
